@@ -305,8 +305,8 @@ header .navbar ul li a:hover{
 }
 
 .projects .box-container .box{
-    height: 59rem;
-    width:42rem;
+    height: 42rem;
+    width:59rem;
     border-radius: 0rem;
     margin:4rem;
     overflow: hidden;
