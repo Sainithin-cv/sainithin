@@ -48,6 +48,10 @@ section{
     padding:1rem;
 }
 
+h3{
+    font-size: 2.2rem;
+    color:#fff;
+}
 .btn{
     padding:.7rem 3rem;
     background:#333;
@@ -131,6 +135,7 @@ header .navbar ul{
     list-style: none;
     padding:1rem 3rem;
 }
+
 
 
 header .navbar ul li a{
@@ -303,7 +308,7 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
     padding:2rem 0;
 }
-
+/*
 .projects .box-container .box{
     height: 42rem;
     width: 59rem;
@@ -322,7 +327,7 @@ header .navbar ul li a:hover{
 .projects .box-container .box:hover img{
     transform: scale(1.2);
 }
-
+*/
 .contact {
     margin-top: 18rem;
     min-height: 40vh;
