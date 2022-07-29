@@ -240,6 +240,12 @@ header .navbar ul li a:hover{
     color:#fff;
 }
 
+.projects. box-container h3{
+    font-size: 2rem;
+    color:#fff;
+}
+
+
 .education {
     min-height: 100vh;
 }
@@ -305,36 +311,7 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
     padding:2rem 0;
 }
-/*
-.projects .box-container .box{
-    height: 42rem;
-    width: 59rem;
-    border-radius: 0rem;
-    margin:4rem;
-    overflow: hidden;
-    cursor: pointer;
-}
 
-.projects .box-container .box img{
-    height:100%;
-    width:100%;
-    object-fit: cover;
-}
-
-.projects .box-container .box:hover img{
-    transform: scale(1.2);
-}
-*/
-
-.projects .box-container .box h3{
-    color : white;
-    font-size: 1.8 rem;
-}
-
-.projects .box-container .box ul{
-    color : white;
-    font-size: 1.4 rem;
-}
 .contact {
     margin-top: 18rem;
     min-height: 40vh;
